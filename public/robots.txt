@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nexorahealthcare.in/sitemap.xml
